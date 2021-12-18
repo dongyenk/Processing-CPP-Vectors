@@ -16,6 +16,6 @@
 
 ## Files
 ------------------------
-***vector_functions.cpp(** contains most of the code, main.cpp calls functions from this other source file
+***vector_functions.cpp*** contains most of the code, main.cpp calls functions from this other source file
 
 ***vector_functions.hpp*** links these 2 files, and contains function declarations of functions defined in vector_functions.cpp
