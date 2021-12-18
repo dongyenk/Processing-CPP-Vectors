@@ -4,7 +4,7 @@
 
 int main(){
   std::vector<int> my_int_vector = read_int_vector();
-  testing_vector_iterator( my_int_vector );
+  //testing_vector_iterator( my_int_vector );
   std::cout << "Sum of elements:\t" << sum( my_int_vector ) << "\n";
   std::cout << "Integer average:\t" << int_average( my_int_vector ) << "\n";
   std::cout << "Float average:\t" << float_average( my_int_vector ) << "\n";
